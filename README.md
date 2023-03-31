@@ -1,2 +1,4 @@
-# SoftRenderQt
-This is a shader-based soft renderer with a simple interface added via Qt.
+## SoftRenderQt
+![phong](image/phong.png =400x300)
+
+
