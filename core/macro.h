@@ -1,0 +1,14 @@
+//
+// Created by dushi on 2023/3/28.
+//
+
+#ifndef SOFTRENDERQT_MACRO_H
+#define SOFTRENDERQT_MACRO_H
+
+#define PI 3.14159265358979323846
+#define EPSILON 1e-5f
+#define SCREEN_WIDTH 500
+#define SCREEN_HEIGHT 500
+#define MAX_VERTEX 10
+
+#endif //SOFTRENDERQT_MACRO_H
