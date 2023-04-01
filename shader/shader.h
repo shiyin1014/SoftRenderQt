@@ -77,32 +77,4 @@ public:
     Vector3f fragment_shader(const Vector3f& barycentric) override;
 };
 
-
-//class SkyBoxShader : public Shader{
-//public:
-//    void vertex_shader(int index) override;
-//    Vector3f fragment_shader(const Vector3f& barycentric) override;
-//};
-//
-//class PBRShader : public Shader{
-//public:
-//    void vertex_shader(int index) override;
-//    Vector3f fragment_shader(const Vector3f& barycentric) override;
-//
-//    //https://learnopengl-cn.github.io/07%20PBR/01%20Theory/
-//    //normal distribution function
-//    float ndf_ggx_tr(Vector3f&normal,Vector3f& half, const float& roughness);
-//    //geometry function
-//    static float geometry_schlick_ggx(Vector3f& normal,Vector3f& view_or_light, const float& roughness);
-//    //geometry_smith
-//    float geometry_smith(Vector3f& normal,Vector3f& view_dir,Vector3f& light_dir,const float& roughness);
-//    //fresnel function
-//    Vector3f fresnel_schlick(float cos_theta,Vector3f& f0);
-//    PBRShader();
-//    ~PBRShader()= default;
-//private:
-//    //virtual point lights in world space
-//    std::vector<light> lights;
-//};
-
 #endif //SOFTRENDERQT_SHADER_H
