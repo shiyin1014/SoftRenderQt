@@ -16,8 +16,8 @@ This is a shader based c++ software rasterisation renderer that has no dependenc
 * Orbital camera
 
 ### ScreenShots
-![](image/elfgirl.png)
-![](image/witch.png)
+<img src="https://github.com/shiyin1014/SoftRenderQt/blob/main/image/elfgirl.png" width = "50%" height="50%" alt=""/><img src="https://github.com/shiyin1014/SoftRenderQt/blob/main/image/witch.png" width = "50%" height="50%" alt=""/>
+
 
 
 ### Build
