@@ -15,6 +15,11 @@ This is a shader based c++ software rasterisation renderer that has no dependenc
 * Depth testing
 * Orbital camera
 
+### ScreenShots
+![](image/elfgirl.png)
+![](image/witch.png)
+
+
 ### Build
 Opencv and QT environment are required to build this project.
 In CMakeLists.txt, you need modify the correct path in your own computer.
